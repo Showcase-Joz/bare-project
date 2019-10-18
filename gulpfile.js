@@ -218,6 +218,10 @@ function css() {
     .pipe(autoprefixer({
       cascade: false,
       grid: true,
+<<<<<<< HEAD
+=======
+      browsers: 'last 2 versions',
+>>>>>>> f0e33b3aa92269ba329dfba19e7f12ac7eeb9737
     }))
     .pipe(sass({
         outputStyle: 'compressed',
