@@ -36,6 +36,7 @@
     "gulp-size": "^3.0.0",
     "gulp-sourcemaps": "^2.6.5",
     "gulp-uglify": "^3.0.2",
+    "gulp-uglify-es": "^1.0.4",
     "gulp-uglifycss": "^1.1.0",
     "node-normalize-scss": "^8.0.1",
     "nodemon": "^1.19.2",
